@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "pomodoro for work and such",
+  "main": "main.js",
+  "dependencies": {
+    "flipclock": "^0.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinewalt/pomodoro_hackathon.git"
+  },
+  "author": "bunch of newbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinewalt/pomodoro_hackathon/issues"
+  },
+  "homepage": "https://github.com/justinewalt/pomodoro_hackathon#readme"
+}
